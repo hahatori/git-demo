@@ -17,6 +17,6 @@ def songhua(e):
     print("give you flower")
 
 
-btn01.bind('<Button-1>', songhua)
+btn01.bind('<Button-1>', thumb)
 
 root.mainloop()
